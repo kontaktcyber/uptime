@@ -4,10 +4,10 @@
     "url": "https://panel.seahost.pl:11001/",
     "icon": "https://icons.duckduckgo.com/ip3/panel.seahost.pl.ico",
     "slug": "panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 499,
@@ -15,14 +15,16 @@
     "timeWeek": 480,
     "timeMonth": 499,
     "timeYear": 499,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-26": 1
+    }
   },
   {
     "name": "mysql",
     "url": "https://panel.seahost.pl:11002/",
     "icon": "https://icons.duckduckgo.com/ip3/panel.seahost.pl.ico",
     "slug": "mysql",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 512,
     "timeMonth": 558,
     "timeYear": 558,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-26": 0
+    }
   }
 ]
