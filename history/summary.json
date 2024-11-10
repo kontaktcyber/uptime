@@ -4,7 +4,7 @@
     "url": "https://panel.seahost.pl:11001/",
     "icon": "https://icons.duckduckgo.com/ip3/panel.seahost.pl.ico",
     "slug": "panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 557,
     "timeYear": 536,
     "dailyMinutesDown": {
+      "2024-11-10": 0,
       "2024-09-26": 295
     }
   },
@@ -25,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.seahost.pl.ico",
     "slug": "mysql",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
+    "uptimeYear": "99.65%",
     "time": 600,
     "timeDay": 755,
     "timeWeek": 625,
