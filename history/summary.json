@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.seahost.pl.ico",
     "slug": "panel",
     "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "96.98%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.59%",
+    "uptime": "99.60%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.60%",
     "time": 558,
     "timeDay": 837,
-    "timeWeek": 689,
-    "timeMonth": 596,
+    "timeWeek": 709,
+    "timeMonth": 601,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2024-11-10": 43,
+      "2024-11-10": 36,
       "2024-09-26": 295
     }
   },
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
-    "time": 600,
-    "timeDay": 755,
-    "timeWeek": 625,
-    "timeMonth": 592,
-    "timeYear": 600,
+    "time": 602,
+    "timeDay": 741,
+    "timeWeek": 661,
+    "timeMonth": 601,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2024-09-26": 294
     }
