@@ -4,7 +4,7 @@
     "url": "https://panel.seahost.pl:11001/",
     "icon": "https://icons.duckduckgo.com/ip3/panel.seahost.pl.ico",
     "slug": "panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
     "uptimeDay": "82.22%",
     "uptimeWeek": "97.46%",
