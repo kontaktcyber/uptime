@@ -88,18 +88,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/earthlegacy.pl.ico",
     "slug": "earthlegacy-pl",
     "status": "up",
-    "uptime": "11.15%",
-    "uptimeDay": "11.15%",
-    "uptimeWeek": "11.15%",
-    "uptimeMonth": "11.15%",
-    "uptimeYear": "11.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 517,
     "timeDay": 517,
     "timeWeek": 517,
     "timeMonth": 517,
     "timeYear": 517,
-    "dailyMinutesDown": {
-      "2024-11-23": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
