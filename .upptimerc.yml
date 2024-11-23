@@ -10,7 +10,7 @@ sites:
   - name: trabage.site
     url: https://trabage.pl/
   - name: earthlegacy.pl
-    url: https://panel.seahost.pl:11002/
+    url: https://earthlegacy.pl/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
